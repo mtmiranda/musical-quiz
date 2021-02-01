@@ -1,7 +1,7 @@
 {
     "bg": "/imgs/background-quiz-musicaV1.png",
     "title": "Musical Quiz",
-    "description": "Teste os seus conhecimentos sobre diversas questões relacionadas à musica em geral!",
+    "description": "Teste os seus conhecimentos sobre diversas questões relacionadas à música em geral!",
     "questions": [
       {
         "image": "/imgs/quizImg1.jpg",
@@ -61,6 +61,66 @@
            "Gutural",
            "Belting",
            "Soprano"
+        ]
+      },
+      {
+        "image": "/imgs/sustenido.jpg",
+        "title": "Na música o símbolo representado pela '#' siginifica ?",
+        "description": "Essa exibe um pouco de teoria...",
+        "answer": 1,
+        "alternatives": [
+           "Que a nota deve ser elevada a um tom",
+           "Que a nota deve ser elevada a um semitom",
+           "Que a nota deve ser diminuida a um semitom",
+           "Que a nota deve ser diminuida a um tom"
+        ]
+      },      
+      {
+        "image": "/imgs/flea.gif",
+        "title": "Qual o nome da técnica onde o baixista toca as cordas como se fosse uma 'palmada' ",
+        "description": "Essa é para os fãs de red hot chilli peppers",
+        "answer": 2,
+        "alternatives": [
+           "Tapping",
+           "Pizzicato",
+           "Slap",
+           "Hammer-on"
+        ]
+      },
+      {
+        "image": "/imgs/music-premiacao.jpg",
+        "title": "Qual o nome da premiação mais famosa do mundo sobre música?' ",
+        "description": "Essa é para ficar na dúvida",
+        "answer": 1,
+        "alternatives": [
+           "MTV Video Music Awards (VMA)",
+           "Grammy Awards",
+           "Billboard Music Awards",
+           "American Music Awards"
+        ]
+      },
+      {
+        "image": "/imgs/ukulele.jpg",
+        "title": "Quem deu nome a esse instrumento que foi popularizado mundialmente?' ",
+        "description": "Essa é para pesquisar",
+        "answer": 0,
+        "alternatives": [
+           "Havaianos",
+           "Brasileiros",
+           "Canadenses",
+           "Australianos"
+        ]
+      },
+      {
+        "image": "/imgs/violino.jpg",
+        "title": "De onde surgiu os primeiros violinos? ",
+        "description": "Não vale chutar hahaha",
+        "answer": 3,
+        "alternatives": [
+           "França",
+           "Alemanha",
+           "Rússia",
+           "Itália"
         ]
       }
     ],
