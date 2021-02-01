@@ -4,7 +4,7 @@ Um Quiz criado durante as aulas da imersão React V2 (Next.Js) da Alura, onde co
 
 ### Instalando
 
-Após o fork ou download dos arquivos, basta digitar os comandos abaixo para isntalar/iniciar o projeto em http://localhost:3000/
+Após o fork ou download dos arquivos, basta digitar os comandos abaixo para instalar/iniciar o projeto em http://localhost:3000/
 
 ```
 npm install OU yarn
@@ -18,4 +18,6 @@ npm run dev OU yarn run dev
 
 ## Deployment
 
-[]()
+Deployment feito na Vercel:
+
+[https://musical-quiz.mtmiranda.vercel.app/](https://musical-quiz.mtmiranda.vercel.app/)
